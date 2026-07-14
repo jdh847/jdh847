@@ -71,6 +71,12 @@ Open to quant roles across the UK. Graduate Route visa — no sponsorship needed
 <a href="https://github.com/jdh847/bft-consensus-bench">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdh847&repo=bft-consensus-bench&theme=github_dark&hide_border=true&border_radius=8" />
 </a>
+<br/>
+<a href="https://github.com/jdh847/sealmark">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdh847&repo=sealmark&theme=github_dark&hide_border=true&border_radius=8" />
+</a>
+
+<sub>Sealmark is published in the official Obsidian community plugin store: private proof of existence for notes, anchored to Bitcoin via OpenTimestamps.</sub>
 
 </div>
 
@@ -82,7 +88,7 @@ Open to quant roles across the UK. Graduate Route visa — no sponsorship needed
 
 **Financial econometrics** — GARCH/EGARCH/GJR-GARCH, Fama-French factor models, VaR/CVaR, Monte Carlo simulation, cointegration, regime-switching
 
-**Cryptographic infrastructure** — AES-256-GCM erasure engine (>10k events/sec), hash-chained audit stores, Ethereum mainnet anchoring, GDPR compliance
+**Cryptographic infrastructure** — AES-256-GCM erasure engine (>10k events/sec), hash-chained audit stores, SHA-256 Merkle anchoring to Bitcoin via OpenTimestamps, GDPR compliance
 
 **On-chain analytics** — Ethereum event processing pipelines, DeFi risk signals (gas dynamics, DEX liquidity, AMM price-impact), LSTM/gradient boosting risk models
 
